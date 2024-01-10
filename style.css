@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300;400;700&family=Salsa&display=swap');
+
+body {
+    background-color: bisque;
+    font-family: Salsa;
+    font-size: 12px;
+    color: rgb(59, 43, 33);
+}
+
+h1 {
+    font-size: 2rem;
+    padding: 20px 0px 10px;
+}
+
+.my-card {
+    background-color: lightgrey;
+    width: 90%;
+    max-width: 15cm;
+    border-radius: 0.3cm;
+    box-shadow: rgba(120, 120, 120, 10) 0.3cm 0.3cm 0.4cm;
+    border: white solid 0.3cm;
+    overflow: hidden;
+}
+
+.my-card img {
+    width: 100%;
+}
+
+.my-card h3 {
+    font-size: 2rem;
+    padding: 10px 0px 5px;
+}
+
+.my-card ol {
+    font-size: 18px;
+}
+
+button {
+    color: inherit !important;
+    border-color: rgb(59, 43, 33) !important;
+    background-color: bisque !important;
+}

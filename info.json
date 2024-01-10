@@ -1,0 +1,110 @@
+{
+    "cards": [
+        {
+                "name": "Do homework", 
+                "list": ["Homework", "Exercises"],
+                "file": "homework.png"
+        },
+        {
+                "name": "Get dressed", 
+                "list": ["Dressed"],
+                "file": "dressed.png"
+        },
+        {
+                "name": "Get up", 
+                "list": ["Get up", "Wake up"],
+                "file": "wakeup.png"
+        },
+        {
+                "name": "Go home", 
+                "list": ["home", "school"],
+                "file": "home.png"
+        },
+        {
+                "name": "Go to bed", 
+                "list": ["Bed", "Sleep"],
+                "file": "bed.png"
+        },
+        {
+                "name": "Go to school", 
+                "list": ["School", "Teacher"],
+                "file": "school.png"
+        },
+        {
+                "name": "Have a shower", 
+                "list": ["Shower", "Water"],
+                "file": "shower.png"
+        },
+        {
+                "name": "Have breakfast", 
+                "list": ["Breakfast"],
+                "file": "breakfast.png"
+        },
+        {
+                "name": "Have dinner", 
+                "list": ["Dinner"],
+                "file": "dinner.png"
+        },
+        {
+                "name": "Have lunch", 
+                "list": ["Lunch"],
+                "file": "lunch.png"
+        },
+        {
+                "name": "Have a snack", 
+                "list": ["Snack"],
+                "file": "snack.png"
+        },
+        {
+                "name": "Study", 
+                "list": ["Study", "Exam"],
+                "file": "study.png"
+        },
+        {
+                "name": "Tidy my room", 
+                "list": ["Tidy", "Room"],
+                "file": "room.png"
+        },
+        {
+                "name": "Walk the dog", 
+                "list": ["Walk", "Dog"],
+                "file": "dog.png"
+        },
+        {
+                "name": "Watch TV", 
+                "list": ["TV"],
+                "file": "tv.png"
+        },
+        {
+                "name": "Lay the table", 
+                "list": ["Table"],
+                "file": "table.png"
+        },
+        {
+                "name": "Wash the dishes", 
+                "list": ["Dishes", "Dishes"],
+                "file": "dishes.png"
+        },
+        {
+                "name": "Brush your teeth", 
+                "list": ["Brush", "Teeth"],
+                "file": "teeth.jpg"
+        },
+        {
+                "name": "Comb your hair", 
+                "list": ["Comb", "Hair"],
+                "file": "hair.jpg"
+        },
+        {
+                "name": "Wash your hands", 
+                "list": ["Wash", "Hands"],
+                "file": "hands.jpg"
+        },
+        {
+            "Take out the trash": {
+                "list": ["Trash", "Rubish"],
+                "file": "trash.png"
+            }
+        }
+    ]
+}
